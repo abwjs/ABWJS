@@ -1,5 +1,10 @@
-## Hi there 👋
-
+- 🔭 I am currently squatting at school
+- 🌱 I'm currently learning the front-end
+- 🤔 I'm looking for help
+- 💬 Ask me
+- 😄 Favorite star: LeBron James
+- ⚡ I'm a poor ghost
+- 🌟 Undergraduate: Guangdong University of Finance
 <!--
 **abwjs/ABWJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
