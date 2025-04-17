@@ -1,7 +1,7 @@
 - 🔭 I am currently squatting at school
 - 🌱 I'm currently learning the front-end
-- 🤔 I'm looking for help
-- 💬 Ask me
+- 🤔 Stay in the mood
+- 💬 Can someone help me
 - 😄 Favorite star: LeBron James
 - ⚡ I'm a poor ghost
 - 🌟 Undergraduate: Guangdong University of Finance
